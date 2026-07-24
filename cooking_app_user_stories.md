@@ -1,4 +1,4 @@
-# Cooking App User Story# Cooking App User Stories
+# Cooking App User Story
 
 ## Login / Registration
 
